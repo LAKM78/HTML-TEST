@@ -1,0 +1,47 @@
+*
+figure {
+    margin: 0;
+}
+
+.background{
+    color: bisque;
+}
+*
+{
+margin: 2;
+padding: 0;
+}
+
+body{
+background-color: rgb(177, 177, 183);
+font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+text-align: center;
+}
+
+h2{
+text-align: center;
+}
+
+h3{
+text-align: center;
+}
+
+li{
+text-align: center;
+}
+
+figure {
+    margin: 0;
+    border-radius: 47px;
+    color: #fff;
+    margin-top: 19px;
+    padding: 14px;
+    background-color: #6b9ac0;
+    font-size: 14px;
+    border: none ;
+    cursor: pointer; 
+    }
+
